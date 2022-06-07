@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "grep-voodh-mobile",
-    "slug": "grep-voodh-mobile",
+    "name": "Grep Voodh",
+    "slug": "grep-voodh",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,6 +29,7 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
